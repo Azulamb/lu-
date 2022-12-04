@@ -50,7 +50,7 @@ deno task build
 deno task server
 ```
 
-And access `http://127.0.0.1:4507/`
+And access print URL.
 
 ## TODO
 
@@ -59,3 +59,9 @@ And access `http://127.0.0.1:4507/`
 * Billboard
 * Debug option(lu-world option? script?)
 * lu-model.clone
+* lu-world.sync?share?lu-screen?
+* obj
+* anime
+* model border
+* shadow
+* lu-light
