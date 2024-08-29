@@ -356,6 +356,7 @@ interface VoxData {
 
 			gl2.bindVertexArray(this.vao);
 			gl2.drawElements(gl2.TRIANGLES, this.count, gl2.UNSIGNED_SHORT, 0);
+			//gl2.drawElements(gl2.LINE_STRIP, this.count, gl2.UNSIGNED_SHORT, 0);
 			gl2.bindVertexArray(null);
 		}
 
